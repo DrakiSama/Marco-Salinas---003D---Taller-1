@@ -1,0 +1,47 @@
+
+
+
+p {text-align:justify}
+img{
+    display:block;
+    margin:auto;
+    }
+
+    p {
+    font-size: 20px;
+    color: rgb(48, 17, 17);
+    font-family: 'Open Sans';
+    }    
+body {background-color: rgba(173, 181, 182, 0.712);}
+
+title {text-align: center; /*al parecer esto no da resultado*/
+    color: darkorchid;}
+
+h1 {text-align: center;}
+
+
+ p.box1 {
+
+    font-size:italic;
+    background-color:rgb(255, 255, 255);
+    color:#000;
+    }
+p.box2 {
+
+    font-size:italic;
+    background-color:rgb(255, 255, 255);
+    color:#000;
+    }
+p.box3 {
+
+    font-size:italic;
+    background-color:rgb(255, 255, 255);
+    color:#000;
+    }
+
+h1.boxtitle {
+
+    
+    background-color:rgb(255, 255, 255);
+    color:rgb(202, 100, 100);
+    }
